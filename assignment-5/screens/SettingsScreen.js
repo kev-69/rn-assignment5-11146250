@@ -1,3 +1,4 @@
+import { View, Text, Switch } from "react-native";
 import React, { useContext } from 'react'
 import { themeContext } from '../context/theme';
 import { AntDesign } from "@expo/vector-icons"
