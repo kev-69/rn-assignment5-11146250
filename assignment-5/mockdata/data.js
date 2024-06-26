@@ -25,7 +25,7 @@ export const data = [
         name: "Banana",
         type: "Grocery",
         price: "-88",
-        image: require(),
+        image: require("../assets/grocery.png"),
     }
 ]
 
